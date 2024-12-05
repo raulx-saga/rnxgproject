@@ -1,0 +1,106 @@
+*{  
+    background-color: #111;}
+h2{ width:550px;
+    height:70px;
+    font-family:'Orbitron', sans-serif;
+    color:#99c7f4;
+    text-transform:uppercase;
+    font-size:25px;
+    padding:10px;
+    
+  
+}
+
+p{color:beige;
+  font-family:arial;
+  font-size:15px;
+
+}
+
+ul{ padding-left:100px;
+    width:700px;
+    height:300px;
+    color:#99c7f4;
+   text-align:justify;
+}
+
+
+     
+#bb{
+    width:550px;
+    height:50px;
+    font-family:'Orbitron', sans-serif;
+    color:#99c7f4;
+    text-transform:uppercase;
+    font-size:25px;
+    padding:15px;
+    margin:0;
+}
+
+img{ 
+    width: 150px;
+     height:120px;
+   
+}
+
+.img{
+    border-left:#c0c0c0 solid 1.5px;
+    border-top:#c0c0c0 solid 0.4px;
+    border-right:#737373 solid 1px;
+    border-bottom:#737373 solid 1px;
+    background-color: #000000;
+    padding:10px;
+    padding-left:30px;
+    padding-right:0px;
+    border-top-left-radius: 13px;
+    border-bottom-right-radius: 13px;
+    
+}
+
+#aaa{ padding-left: 30px;
+
+}
+
+#aaa:hover{width:200px;
+           height:150px;   
+           border: white solid 2px;
+           caption-side: bottom;
+  }
+
+#bbb:hover{width:200px;
+    height:150px;   
+    border: white solid 2px;
+}  
+
+#ccc:hover{width:200px;
+    height:150px;   
+    border: white solid 2px;
+}
+
+#ddd:hover{width:200px;
+    height:150px;   
+    border: white solid 2px;
+}
+
+#eee:hover{width:200px;
+    height:150px;   
+    border: white solid 2px;
+}
+
+#sponser{
+    width:550px;
+    height:50px;
+    font-family:'Orbitron', sans-serif;
+    color:#99c7f4;
+    text-transform:uppercase;
+    font-size:25px;
+    padding:15px;
+    margin:0;
+}
+
+.combine{
+    background:url(https://wallpapers.com/images/hd/plain-black-desktop-1rhuav2q4ua26xwq.jpg);
+
+}
+
+body{background:url(https://res.cloudinary.com/dqrwkgoi8/image/upload/v1706947662/raqwjpxiqctr5hxoqox0.png);}
